@@ -1,2 +1,2 @@
 # BranchTest
-## name = kangmin
+## name = seongjun
